@@ -416,13 +416,6 @@ A recorded demonstration of the application will showcase the following workflow
 6. Semantic document search.
 7. Interaction between the React frontend and FastAPI backend.
 
-**Project Demonstration:** [Insert Walkthrough Video Link]
-
-**Architecture Diagram:** [Insert Architecture Diagram Link]
-
-**Source Code:** [Insert GitHub Repository Link]
-
----
 
 ## 🤖 AI Assistance & Development Disclosure
 
