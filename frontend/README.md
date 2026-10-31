@@ -198,10 +198,12 @@ Make sure the following software is installed:
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+### 1. Clone the Repository
 
-cd YOUR_REPOSITORY
+```bash
+git clone https://github.com/A-Shihab/ai-document-intelligence-system.git
+
+cd ai-document-intelligence-system
 ```
 
 ### 2. Backend Setup
